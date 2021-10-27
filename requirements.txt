@@ -2,8 +2,6 @@
 # $ conda create --name <env> --file <this file>
 # platform: linux-64
 
-absl-py=0.13.0=py37h06a4308_0
-alabaster=0.7.12=py37_0
 beautifulsoup4=4.10.0=pyh06a4308_0
 flake8=3.9.0=pyhd3eb1b0_0
 flask=1.1.2=pyhd3eb1b0_0
