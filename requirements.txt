@@ -24,7 +24,6 @@ scipy==1.6.2
 
 tensorboard==2.4.0
 tensorflow==2.1.0
-tensorflow-base==2.1.0
 tensorflow-estimator==2.1.0
 tensorflow-hub==0.8.0
 
