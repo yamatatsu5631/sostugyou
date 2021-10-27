@@ -28,3 +28,7 @@ tensorflow-estimator==2.1.0
 tensorflow-hub==0.8.0
 
 matplotlib==3.3.4
+
+opencv==3.4.2
+
+imageio==2.9.0
