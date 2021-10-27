@@ -2,61 +2,61 @@
 # $ conda create --name <env> --file <this file>
 # platform: linux-64
 
-beautifulsoup4=4.10.0=pyh06a4308_0
-flake8=3.9.0=pyhd3eb1b0_0
-flask=1.1.2=pyhd3eb1b0_0
-jupyter=1.0.0=py37_7
-jupyter-packaging=0.7.12=pyhd3eb1b0_0
-jupyter_client=6.1.12=pyhd3eb1b0_0
-jupyter_console=6.4.0=pyhd3eb1b0_0
-jupyter_core=4.7.1=py37h06a4308_0
-jupyter_server=1.4.1=py37h06a4308_0
-jupyterlab=3.0.14=pyhd3eb1b0_1
-jupyterlab_pygments=0.1.2=py_0
-jupyterlab_server=2.4.0=pyhd3eb1b0_0
-jupyterlab_widgets=1.0.0=pyhd3eb1b0_1
-keras-applications=1.0.8=py_1
-keras-preprocessing=1.1.2=pyhd3eb1b0_0
+beautifulsoup4=4.10.0
+flake8=3.9.0
+flask=1.1.2
+jupyter=1.0.0
+jupyter-packaging=0.7.12
+jupyter_client=6.1.12
+jupyter_console=6.4.0
+jupyter_core=4.7.1
+jupyter_server=1.4.1
+jupyterlab=3.0.14
+jupyterlab_pygments
+jupyterlab_server=2.4.0
+jupyterlab_widgets=1.0.0
+keras-applications=1.0.8
+keras-preprocessing=1.1.2
 
-matplotlib=3.3.4=py37h06a4308_0
-matplotlib-base=3.3.4=py37h62a2d02_0
+matplotlib=3.3.4
+matplotlib-base=3.3.4
 
-nodejs=6.11.2=h3db8ef7_0
-nose=1.3.7=pyhd3eb1b0_1006
-notebook=6.3.0=py37h06a4308_0
+nodejs=6.11.2
+nose=1.3.7
+notebook=6.3.0
 
-numpy=1.20.1=py37h93e21f0_0
-numpy-base=1.20.1=py37h7d8b39e_0
-numpydoc=1.1.0=pyhd3eb1b0_1
+numpy=1.20.1
+numpy-base=1.20.1
+numpydoc=1.1.0
 
-opencv=3.4.2=py37h6fd60c2_1
-opencv-contrib-python=4.5.3.56=pypi_0
-opencv-python=4.5.3.56=pypi_0
+opencv=3.4.2
+opencv-contrib-python=4.5.3.56
+opencv-python=4.5.3.56
 
-pandas=1.2.4=py37h2531618_0
+pandas=1.2.4
 
-pickleshare=0.7.5=pyhd3eb1b0_1003
-pillow=8.2.0=py37he98fc37_0
-pip=21.0.1=py37h06a4308_0
+pickleshare=0.7.5
+pillow=8.2.0
+pip=21.0.1
 
 
-python=3.7.10=hdb3f193_0
-python-dateutil=2.8.1=pyhd3eb1b0_0
-python-jsonrpc-server=0.4.0=py_0
-python-language-server=0.36.2=pyhd3eb1b0_0
-python-libarchive-c=2.9=pyhd3eb1b0_1
-python_abi=3.7=2_cp37m
+python=3.7.10
+python-dateutil=2.8.1
+python-jsonrpc-server
+python-language-server
+python-libarchive-c=2.9
+python_abi=3.7
 
-scikit-image=0.18.1=py37ha9443f7_0
-scikit-learn=0.24.1=py37ha9443f7_0
-scipy=1.6.2=py37had2a1c9_1
-seaborn=0.11.1=pyhd3eb1b0_0
-secretstorage=3.3.1=py37h06a4308_0
+scikit-image=0.18.1
+scikit-learn=0.24.1
+scipy=1.6.2
+seaborn=0.11.1
+secretstorage=3.3.1
 
-tensorboard=2.4.0=pyhc547734_0
-tensorboard-plugin-wit=1.6.0=py_0
-tensorflow=2.1.0=mkl_py37h80a91df_0
-tensorflow-base=2.1.0=mkl_py37h6d63fb7_0
-tensorflow-estimator=2.1.0=pyhd54b08b_0
-tensorflow-hub=0.8.0=pyhe6710b0_0
+tensorboard=2.4.0
+tensorboard-plugin-wit=1.6.0
+tensorflow=2.1.0
+tensorflow-base=2.1.0
+tensorflow-estimator=2.1.0
+tensorflow-hub=0.8.0
 
