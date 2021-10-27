@@ -15,7 +15,7 @@ pillow==8.2.0
 
 
 
-python==3.7.10
+#python==3.7.10
 
 
 scikit-image==0.18.1
