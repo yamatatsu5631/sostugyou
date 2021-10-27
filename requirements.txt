@@ -5,12 +5,8 @@ keras-preprocessing==1.1.2
 notebook==6.3.0
 
 numpy==1.20.1
-numpy-base==1.20.1
-numpydoc==1.1.0
 
 opencv==3.4.2
-opencv-contrib-python==4.5.3.56
-opencv-python==4.5.3.56
 
 pandas==1.2.4
 
@@ -20,11 +16,7 @@ pillow==8.2.0
 
 
 python==3.7.10
-python-dateutil==2.8.1
-python-jsonrpc-server
-python-language-server
-python-libarchive-c==2.9
-python_abi==3.7
+
 
 scikit-image==0.18.1
 scikit-learn==0.24.1
